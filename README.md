@@ -3,7 +3,7 @@
 
 ![logo](https://raw.githubusercontent.com/caparrosmatias/arduino-greenhouse/master/logo_greenhouse.jpg)
 
-### Greenhouse for the production of crops from stakes, with adjustable temperature range and irrigation timing.
+### Greenhouse with adjustable temperature range and irrigation timing.
 
 The temperature range must be between Tmin and Tmax. The system through a temperature sensor (LM35), register every 10 minutes the temperature provided by the sensor. With this data the controller can perform 3 tasks depending on the temperature that exists (1):
 
